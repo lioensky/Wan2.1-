@@ -12,6 +12,10 @@
 - 提供生成历史记录
 - 支持异步视频生成和状态查询
 
+## 广告内容
+https://cloud.siliconflow.cn/i/HxM1olJu
+点击邀请链接获得共享额度支持作者。
+
 ## 环境要求
 
 - Python 3.6+
